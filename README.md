@@ -81,7 +81,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application]("https://mini-ipod-reactjs.netlify.app/")
+> ## Checkout the Website [Web Application](https://mini-ipod-reactjs.netlify.app/)
 >
 > ## Checkout the Application Demo Video [YouTube]()
 
